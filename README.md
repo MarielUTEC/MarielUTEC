@@ -15,8 +15,8 @@
 📂 Actualmente, me encuentro cursando el 1er ciclo de la carrera
 
 📫 Cómo puedes buscarme: 
-- FB: https://www.facebook.com/MarielTovarTolentino/
-- Email: mariel.tovar@utec.edu.pe
+- [Facebook](https://www.facebook.com/MarielTovarTolentino/)
+- [Email]( mariel.tovar@utec.edu.pe)
 
 ### Cosas que hago e intereses:
 - 🌱 Actualmente estoy aprendiendo a programar.
@@ -24,4 +24,8 @@
 - 😄 Mis pasatiempos favoritos son: Ver películas y series, programar, practicar voley, bailar y escuchar música en inglés.
 - 💕 Me encantan los animales
 
+   Vive la vida y no dejes que la vida te viva❤
+  
 <!--
+
+  
