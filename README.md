@@ -24,7 +24,7 @@
 - 😄 Mis pasatiempos favoritos son: Ver películas y series, programar, practicar voley, bailar y escuchar música en inglés.
 - 💕 Me encantan los animales
 
-   Vive la vida y no dejes que la vida te viva❤
+Vive la vida y no dejes que la vida te viva❤
   
 <!--
 
