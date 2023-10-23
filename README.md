@@ -8,11 +8,11 @@
 -->
 👋 Me llamo Mariel Tovar Tolentino
 
-✨ Tengo 18 años
+✨ Tengo 20 años
 
 📚 Soy estudiante de CS en UTEC.
 
-📂 Actualmente, me encuentro cursando el 1er ciclo de la carrera
+📂 Actualmente, me encuentro cursando el 5to ciclo de la carrera
 
 📫 Cómo puedes buscarme: 
 - [Facebook](https://www.facebook.com/MarielTovarTolentino/)
@@ -24,9 +24,8 @@
 - 😄 Mis pasatiempos favoritos son: Ver películas y series, programar, practicar voley, bailar y escuchar música en inglés.
 - 💕 Me encantan los animales
 
-Vive la vida y no dejes que la vida te viva❤
-
- Matias estuvo aqui. 
+Vive la vida y no dejes que la vida te viva❤ by Marcelo
+Matias estuvo aqui. 
 <!--
 
   
