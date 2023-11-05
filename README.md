@@ -16,17 +16,14 @@
 
 📫 Cómo puedes buscarme: 
 - [Facebook](https://www.facebook.com/MarielTovarTolentino/)
-- [Email]( mariel.tovar@utec.edu.pe)
+- Email: mariel.tovar@utec.edu.pe
 
 ### Cosas que hago e intereses:
-- 🌱 Actualmente estoy aprendiendo a programar.
+- 🌱 Actualmente sigo aprendiendo lenguajes de programación.
 - ⚡ Me gustaría trabajar en Google.
 - 😄 Mis pasatiempos favoritos son: Ver películas y series, programar, practicar voley, bailar y escuchar música en inglés.
 - 💕 Me encantan los animales
 
-Vive la vida y no dejes que la vida te viva❤ by Marcelo.
-
- Matias estuvo aqui. 
 <!--
 
   
