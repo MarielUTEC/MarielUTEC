@@ -14,7 +14,7 @@
 
 📂 Actualmente, me encuentro cursando el 5to ciclo de la carrera
 
-📫 Cómo puedes buscarme: 
+📫 Cómo puedes contactarme: 
 - [Facebook](https://www.facebook.com/MarielTovarTolentino/)
 - Email: mariel.tovar@utec.edu.pe
 
