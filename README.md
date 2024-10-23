@@ -8,14 +8,16 @@
 -->
 👋 Me llamo Mariel Tovar Tolentino
 
-✨ Tengo 20 años
+✨ Tengo 21 años
 
 📚 Soy estudiante de CS en UTEC.
 
-📂 Actualmente, me encuentro cursando el 5to ciclo de la carrera
+📂 Actualmente, me encuentro cursando el 7mo ciclo de la carrera
 
 📫 Cómo puedes contactarme: 
 - [Facebook](https://www.facebook.com/MarielTovarTolentino/)
+- [Instagram](https://www.instagram.com/marieltovar15212/)
+- [Linkedin](https://www.linkedin.com/in/mariel-carolina-tovar-tolentino-569210229/)
 - Email: mariel.tovar@utec.edu.pe
 
 ### Cosas que hago e intereses:
